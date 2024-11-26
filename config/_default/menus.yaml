@@ -10,12 +10,12 @@ main:
   - name: 研究
     url: /papers
     weight: 11
-  - name: News
-    url: /news
-    weight: 13
   - name: 项目
     url: projects/
     weight: 30
   - name: 教学
     url: teaching/
     weight: 40
+  - name: 随想札记
+    url: /post
+    weight: 13
